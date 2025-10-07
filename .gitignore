@@ -11,3 +11,5 @@ typechain-types/
 !.env.example
 .DS_Store
 *.log
+!backups/*.enc
+
